@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical"
+     android:background="@drawable/background" >
+     
+  <SearchView
+      android:id="@+id/se"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="#000000"
+      android:iconifiedByDefault="false"
+      android:queryHint="@string/menuItemSearch" />
+
+  <TextView
+      android:id="@+id/intr"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="17dp"
+      android:text="點選任一商家即可取得地圖位置"
+      android:textColor="#00FFFF"
+      android:textSize="19sp" />
+
+  <ListView
+      android:id="@+id/l1"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_marginBottom="50dp"
+      android:layout_marginTop="70dp" >
+  </ListView>
+
+ </LinearLayout>

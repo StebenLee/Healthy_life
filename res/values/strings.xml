@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HealthyLife</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuItemSearch">請輸入商家或地址關鍵字</string>
+    <string name="professor">指導教授: 吳柏翰</string>
+    <string name="coding">程式設計 : 康庭綸  陳靜修</string>
+    <string name="design">美術設計 : 柯玟君  </string>
+    <string name="design2">美工王兼Coding大黑馬 : </string>
+    <string name="design3">李哲儒 </string>
+    <string name="plan">企劃  : 林子安 </string>
+    <string-array name="category">
+        <item>製麵業</item>
+        <item>中央廚房</item>
+        <item>溫泉業</item>
+        <item>電影片映演業</item>
+        <item>休憩餐飲業</item>
+        <item>食品販售業</item>
+        <item>游泳場所業</item>
+        <item>旅館業</item>
+        <item>娛樂業</item>
+        <item>美容美髮業</item>
+        <item>烘焙業</item>
+        <item>浴室業</item>
+        <item>飲冰品業</item>
+        <item>飯店業</item>
+        <item>一般餐飲業</item>
+    </string-array>
+    <string-array name="oldcategory">
+        <item>社區照顧關懷據點</item>
+        <item>臺北市各老人服務中心</item>
+        <item>老人活動據點</item>
+        <item>私立老人安養護機構	</item>
+        <item>臺北市老人日間照顧中心</item>
+        <item>臺北市長期照顧管理中心</item>
+        <item>臺北市各區公所</item>
+        <item>長青學苑</item>
+    </string-array>
+
+</resources>
